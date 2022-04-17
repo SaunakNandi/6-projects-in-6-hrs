@@ -1,4 +1,4 @@
-d
+
 const main=document.querySelector('main')
 const form=document.querySelector('#form')
 const search=document.querySelector('.search')
